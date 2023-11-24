@@ -13,8 +13,6 @@ The **PDLS_EXT3_Basic_Fast** provides a high-level interface to drive the e-pape
 
 Please refer to [PDLS_EXT3_Basic](https://github.com/rei-vilo/PDLS_EXT3_Basic/issues) for reporting issues and contributing pull requests.
 
-https://user-images.githubusercontent.com/951776/132012290-8680632a-b45c-417e-a7fe-d625f7e8af26.mp4
-
 ## Features
 
 + Graphics routines
